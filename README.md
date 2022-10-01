@@ -29,17 +29,17 @@ The values of multiple variables are passed to the receipt function and a receip
 
 
 # Specifications:
-• The user can choose their preferred cars from the ones available.
-• The total charges will be displayed to the user after the process.
+- The user can choose their preferred cars from the ones available.
+- The total charges will be displayed to the user after the process.
 
 # Header Files:
 In this program, five header files were used which include :
-•	iostream (for input/output )
-•	iomanip (for setw function)
-•	cmath (for complex mathematical functions)
-•	cstdlib (for rand() function)
-•	string (for string class)
-•	using namespace std (for using standard function for cin and cout commands)
+-	iostream (for input/output )
+-	iomanip (for setw function)
+-	cmath (for complex mathematical functions)
+-	cstdlib (for rand() function)
+-	string (for string class)
+-	using namespace std (for using standard function for cin and cout commands)
 
 #Screenshots
 - ![Program](https://github.com/sydalirza/Car-Rental-Service/blob/master/Picture1.png)
