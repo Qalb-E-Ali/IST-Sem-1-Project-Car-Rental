@@ -42,7 +42,7 @@ In this program, five header files were used which include :
 -	using namespace std (for using standard function for cin and cout commands)
 
 #Screenshots
-- ![Program](https://github.com/sydalirza/Car-Rental-Service/blob/master/Picture1.png)
+- ![Program](https://github.com/Qalb-E-Ali/IST-Sem-1-Project-Presidential-Rental/blob/master/presidential.png)
 
 # Contributors
 - Muhammad Qalb-e-Ali
