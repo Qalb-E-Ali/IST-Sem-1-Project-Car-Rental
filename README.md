@@ -46,6 +46,7 @@ In this program, five header files were used which include :
 
 # Contributors
 - Muhammad Qalb-e-Ali
+- Syed Ali Raza
 - Musaib Gillani
 - Daniyal Shah
 - Muhammad Wahaj-ud-din
